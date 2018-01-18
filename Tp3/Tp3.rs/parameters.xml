@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+
+	<parameter name="randomSeed" displayName="Default Random Seed"
+		type="int" defaultValue="1786885109" />
+	<parameter name="nbconsumers" displayName="nbconsumers" type="int"
+		defaultValue="20" />
+	<parameter name="nbresources" displayName="nbresources" type="int"
+		defaultValue="40" />
+
+</parameters>

@@ -1,0 +1,5 @@
+<context id="Tp3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+	<projection id="Simple Grid" type="grid" />
+	<projection type="network" id="Target network"></projection>
+</context>
